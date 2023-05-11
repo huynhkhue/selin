@@ -1,0 +1,11 @@
+import requests
+
+# Google Translate API endpoint
+url = "https://translate.google.com/translate_a/single"
+
+# URL of the page to be translated
+page_url = "https://www.example.com"
+
+# Target language to translate to
+target_lang = "zh-CN" # Chinese Simplified
+
